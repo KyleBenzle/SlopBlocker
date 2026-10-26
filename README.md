@@ -58,6 +58,38 @@ Then in Chrome:
 2. Turn on **Developer mode** (top right)
 3. Click **Load unpacked** and pick the `.output/chrome-mv3` folder
 
+
+
+## Slop Blocker Privacy Policy
+
+**Last updated: October 26, 2026**
+
+Slop Blocker is a Chrome extension designed to identify and filter AI-generated content.
+
+## Data Processing
+
+Slop Blocker accesses webpage content to identify potentially AI-generated text and images.
+
+## Local Storage
+
+The extension stores user preferences, filtering settings, and optional API configurations using browser storage.
+
+## Third-Party AI Services
+
+If users enable external AI detection, selected webpage content may be transmitted to their configured AI provider, such as OpenAI or xAI, for analysis. These providers process information under their respective privacy policies.
+
+## Data Usage
+
+User data is used exclusively to provide the extension's filtering functionality. Slop Blocker does not sell user data or use it for advertising.
+
+## User Control
+
+Users can disable filtering, change their settings, remove configured API credentials, or uninstall the extension.
+
+## Policy Updates
+
+This policy may be updated when the extension's functionality or data practices change.
+
 ## A fair warning
 
 Nothing can reliably spot all AI content, and this doesn't pretend to. It mostly goes by labels and clear signs, so some slop will get through. The higher you set the slider, the more it catches, but the more likely it is to hide something a real person made.
