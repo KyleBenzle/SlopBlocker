@@ -7,7 +7,7 @@
 <p align="center">Like an ad blocker, but for AI slop.</p>
 
 <p align="center">
-  <img src="store/screenshot-2-popup.png" width="720" alt="Slop Blocker popup">
+  <img src="./Screenshot.png" width="720" alt="Slop Blocker popup">
 </p>
 
 Slop Blocker is a Chrome extension that hides AI-generated content on websites: Google AI Overviews, AI-labeled posts, AI images, chatbot spam in comments, that kind of thing. It runs entirely in your browser. No account, no tracking, no server.
