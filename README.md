@@ -1,8 +1,7 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/KyleBenzle/SlopBlocker/main/logo.png" width="296" alt="Slop Blocker icon">
+    <img src="https://raw.githubusercontent.com/KyleBenzle/SlopBlocker/main/logo.png" width="396" alt="Slop Blocker icon">
 </p>
-
-<h1 align="center">Slop Blocker</h1>
+<h1 align="center">Slop Blocker - AI Blocker</h1>
 
 <p align="center">Like an ad blocker, but for AI slop.</p>
 
