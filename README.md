@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KyleBenzle/SlopBlocker/main/logo.png" width="96" alt="Slop Blocker icon">
+  <img src="https://raw.githubusercontent.com/KyleBenzle/SlopBlocker/main/logo.png" alt="Slop Blocker icon">
 </p>
 
 <h1 align="center">Slop Blocker</h1>
